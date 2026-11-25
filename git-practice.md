@@ -1,3 +1,3 @@
 line one
-line two - from branch one
+line two - resolved
 line three
