@@ -1,2 +1,4 @@
 monitor.out
 app.log
+.env
+*.pem
